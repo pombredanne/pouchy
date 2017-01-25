@@ -1,5 +1,7 @@
 # pouchy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/pouchy.svg)](https://greenkeeper.io/)
+
 [ ![Codeship Status for cdaringe/pouchy](https://codeship.com/projects/723a9160-4203-0133-3599-062894ba1566/status?branch=master)](https://codeship.com/projects/103658) [![Coverage Status](https://coveralls.io/repos/github/cdaringe/pouchy/badge.svg?branch=master)](https://coveralls.io/github/cdaringe/pouchy?branch=master)
 
 [![NPM](https://nodei.co/npm/pouchy.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pouchy/)
